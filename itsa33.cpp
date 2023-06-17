@@ -1,3 +1,4 @@
+//[C_MM32-易] Armstrong數
 #include <iostream>  
 #include <cmath>  
 using namespace std;  

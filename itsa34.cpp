@@ -1,3 +1,4 @@
+// [C_MM24-易] 計算薪水
 #include <iostream>  
 #include <iomanip>  
 #include <math.h>  
